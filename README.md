@@ -14,7 +14,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Node
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/animal-directory.git
+   git clone https://github.com/Hannan2004/nodejs-crud-application.git
    ```
 
 2. Navigate to the project directory:
